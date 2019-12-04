@@ -1,0 +1,5 @@
+2 (int) 
+A (str) 
+D2 (dict) 
+D1 -> F (str) 
+D1 -> D2 -> E (str) 

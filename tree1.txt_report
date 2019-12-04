@@ -1,0 +1,4 @@
+3 (int) 
+B (str) 
+D1 -> C (str) 
+D1 -> D2 -> 1 (int) 
