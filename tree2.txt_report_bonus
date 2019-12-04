@@ -1,0 +1,13 @@
+--- 2 (int) 
++++ 1 (int) 
++++ 3 (int) 
+--- A (str) 
++++ B (str) 
+--- D2 (dict) 
++++ D1 (dict) 
++++ D2 (dict) 
+D1 
+  --- F (str) 
+D1 
+  D2 
+    --- E (str) 
