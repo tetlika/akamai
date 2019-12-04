@@ -1,1 +1,3 @@
-# akamai
+Requirements
+-----------------------
+Python v3
